@@ -18,6 +18,18 @@ All feedback is welcome. Please contact me if any of these tools were helpful or
 
 ---
 
+## 🚀 Quick Download
+
+If you just want to download the framework files without cloning the repository:
+
+1. Go to the **[Latest Release](../../releases/latest)** page (or click **Releases** on the right sidebar of this page).
+2. Under the **Assets** header click on each of the files to download them:
+3. Open the downloaded files on your computer to get started!
+
+> 💡 *Note: You do not need to download the "Source code" ZIP files unless you intend to modify the underlying code.*
+
+---
+
 ## Note:
 
 I was inspired by Joshua Lambert’s project at Missouri State University. Please consider his program as an alternative if this framework does not work for you:
