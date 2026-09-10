@@ -77,6 +77,12 @@ Examples
 
 ---
 
+## Contribution Guidelines
+
+While this software is distributed under the Apache License 2.0, all modifications or pull requests submitted for inclusion in this official repository remain subject to review and approval by the project owner. 
+
+By submitting a contribution, you agree that the project owner holds sole approval over code integration, modifications, and official releases.
+
 ## LICENSE: 
 
 [Apache License 2.0](https://github.com/ndlib/dana/blob/main/LICENSE)
