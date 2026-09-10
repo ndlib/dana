@@ -14,11 +14,11 @@ Beyond this, a user-friendly Python program (no Python familiarity is required) 
 
 Orderly data collection increases accuracy of the end results. The heatmaps can be used to strategically target areas of the library that are experiencing capacity issues, and the shifting guide will greatly reduce shifting errors, stress, and time required to plan a shift.
 
-All feedback is welcome. Please contact me if any of these tools were helpful or where the pain point was if they were not helpful.
+All feedback is welcome. Please contact me if any of these tools were helpful or where the pain points were if they were not.
 
 ---
 
-## Note:
+## Prior Art & Inspiration
 
 I was inspired by Joshua Lambert’s project at Missouri State University. Please consider his program as an alternative if this framework does not work for you:
 * [Code4Lib Article](https://journal.code4lib.org/articles/16577)
@@ -46,14 +46,12 @@ Examples
 ├── Example CSV Data Collection Workbook - 11th Floor 2026 - Range Summary.csv
 ├── Example Data Collection Workbook - 11th Floor 2026.xlsx
 └── Example D.A.N.A. - Formatted Estimate of 11th Floor Ranges 19b to 38b.xlsx
-```
+
 ---
 
 ## Short Description:
 
 <b>D.A.N.A - Blank Data Collection Workbook.xlsx:<b> Spreadsheet to record all measurement data, summarize your data and have the capability to allow you to create a visual heatmap.
-
-<b>D.A.N.A. - Formatted Estimate From Rawdata CSV.xlsx:<b> This workbook formats the output file from the python shifting program into a cleaner looking spreadsheet.
 
 <b>launch_library_tool.bat:<b> A Windows batch script that automates the setup and execution of the Library Space Management Tool. It installs required Python packages (Streamlit, Pandas and Plotly). Once complete the script will launch the library_app.py through a web application.
 
@@ -69,7 +67,7 @@ Examples
 
 <b>Introduction.doc:<b> A short introduction of who I am and a brief overview of this project.  
 
-<b>Example CSV Data Collection Workbook - 11th Floor 2026 - Range Summary.csv:<b> A populated workbook of measurement data collected from the 11th Floor of the Hesburgh Library and saved in CSV format.
+<b>Example CSV Data Collection Workbook - 11th Floor 2026 - Range Summary.csv:<b> A populated workbook of measurement data collected from the 11th Floor of the Hesburgh Library and saved in csv format.
 
 <b>Example Data Collection Workbook - 11th Floor 2026.xlsx:<b> The original fully populated workbook of measurement data collected from the 11th Floor of the Hesburgh Library.
 
@@ -77,6 +75,4 @@ Examples
 
 ---
 
-## LICENSE: 
-
-[Apache License 2.0](https://github.com/ndlib/dana/blob/main/LICENSE)
+<b>LICENSE:<b> [Apache License 2.0](https://github.com/ndlib/dana/blob/main/LICENSE)
