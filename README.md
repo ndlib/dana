@@ -14,7 +14,7 @@ Beyond this, a user-friendly Python program (no Python familiarity is required) 
 
 Orderly data collection increases accuracy of the end results. The heatmaps can be used to strategically target areas of the library that are experiencing capacity issues, and the shifting guide will greatly reduce shifting errors, stress, and time required to plan a shift.
 
-All feedback is welcome. Please contact me if any of these tools were helpful or where the pain point was if they were not helpful.
+All feedback is welcome. Please contact me (`dmakinen[at]nd.edu`) if any of these tools were helpful or where the pain point was if they were not helpful.
 
 ---
 
